@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Let life be beautiful like summer flowers ");
+    return 0;
+}
